@@ -11,6 +11,7 @@
 	</main>
 
 	<footer>
+		<p>test</p>
 		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
 	</footer>
 </div>
@@ -20,6 +21,7 @@
 		display: flex;
 		flex-direction: column;
 		min-height: 100vh;
+		background-color: aliceblue;
 	}
 
 	main {
