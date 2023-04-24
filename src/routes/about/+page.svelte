@@ -27,6 +27,6 @@
 
 <style>
 	p {
-		font-size: 1rem;
+		font-size: 2rem;
 	}
 </style>
