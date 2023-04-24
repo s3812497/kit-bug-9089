@@ -1,3 +1,3 @@
 export function load () {
-  console.log('n');
+  console.log('nasdfasdfasdf');
 }

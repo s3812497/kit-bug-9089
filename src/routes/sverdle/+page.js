@@ -1,3 +1,3 @@
 export function load () {
-  console.log('new s');
+  console.log('newasdfasdf s');
 }
