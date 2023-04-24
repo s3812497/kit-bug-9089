@@ -1,3 +1,3 @@
 export function load () {
-  console.log('loading!');
+  console.log('new script hash!');
 }
