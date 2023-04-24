@@ -24,3 +24,9 @@
 		using it with JavaScript disabled!
 	</p>
 </div>
+
+<style>
+	p {
+		font-size: 2rem;
+	}
+</style>
